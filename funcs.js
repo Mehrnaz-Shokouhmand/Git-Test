@@ -11,3 +11,5 @@ const register = (user) => {
 };
 
 const number = 21;
+
+const name = "Mehrnaz";
