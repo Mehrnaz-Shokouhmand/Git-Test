@@ -1,5 +1,9 @@
 const isLogin = (userName) => {
-  return true;
+  if (userName === "mehrnaz") {
+    return true;
+  } else {
+    return false;
+  }
 };
 
 const register = (user) => {
