@@ -19,3 +19,7 @@ const number = 21;
 const name = "Mehrnaz";
 
 const family = "shokooh";
+
+const gitTest = () => {
+  return false;
+};
